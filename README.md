@@ -1,4 +1,4 @@
-## Blender Shader Utilities
+# Blender Shader Utilities
 
 Collection of my shader utilities (node groups)
 
