@@ -10,7 +10,7 @@ Collection of node groups (for shader or geometry nodes)
 ## Install
 
 - Install [Node Presets](https://extensions.blender.org/add-ons/node-presets/) addon from blender extension.
-- Copy `xxx.blend` file into your directory of Node Presets.
+- Put `xxx.blend` file into your directory of Node Presets.
 - You can now add my utility nodes by "Node > Add > Template > XXX".
 
 ## Usage
