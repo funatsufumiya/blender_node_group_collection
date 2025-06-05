@@ -2,7 +2,10 @@
 
 Collection of node groups (for shader or geometry nodes)
 
-(For full list of nodes, see [Usage](#usage).)
+## List of node groups
+
+- [ClampVector (for shader)](#clampvector-for-shader)
+- [ToInstance (for geometry nodes)](#toinstance-for-geometry-nodes)
 
 ## Install
 
