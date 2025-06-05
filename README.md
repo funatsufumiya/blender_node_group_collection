@@ -21,6 +21,10 @@ Collection of node groups (for shader or geometry nodes)
 
 Clamps vector by min / max.
 
+#### Implementation
+
+![docs/clampvector/implementation.png](docs/clampvector/implementation.png)
+
 ### ToInstance (for geometry nodes)
 
 ![docs/toinstance/screenshot.png](docs/toinstance/screenshot.png)
@@ -32,6 +36,10 @@ Clamps vector by min / max.
 Make geometry into single instance. This is useful when creating instance collection for `Pick Instance` on `Instance On Points`. (For detail, see the movie below.)
 
 https://www.youtube.com/watch?v=nReSOasTuYs
+
+#### Implementation
+
+![docs/toinstance/implementation.png](docs/toinstance/implementation.png)
 
 ## License
 
