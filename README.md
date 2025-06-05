@@ -3,7 +3,6 @@
 Collection of node groups (for shader or geometry nodes)
 
 ## List of node groups (Table of Contents)
-
 - [:pushpin: ClampVector (for shader)](#pushpin-clampvector-for-shader)
   - [Implementation](#implementation)
 - [:pushpin: ToInstance (for geometry nodes)](#pushpin-toinstance-for-geometry-nodes)
@@ -29,6 +28,8 @@ Clamps vector by min / max.
 ![docs/clampvector/implementation.png](docs/clampvector/implementation.png)
 
 ### :pushpin: ToInstance (for geometry nodes)
+
+**DEPRECATED**: use [Geometry to Instance](https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/geometry/geometry_to_instance.html) node instead.
 
 ![docs/toinstance/screenshot.png](docs/toinstance/screenshot.png)
 
