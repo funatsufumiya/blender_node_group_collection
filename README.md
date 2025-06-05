@@ -2,10 +2,13 @@
 
 Collection of node groups (for shader or geometry nodes)
 
-## List of node groups
+## List of node groups (Table of Contents)
 
-- [ClampVector (for shader)](#clampvector-for-shader)
-- [ToInstance (for geometry nodes)](#toinstance-for-geometry-nodes)
+- [:pushpin: ClampVector (for shader)](#pushpin-clampvector-for-shader)
+  - [Implementation](#implementation)
+- [:pushpin: ToInstance (for geometry nodes)](#pushpin-toinstance-for-geometry-nodes)
+  - [Implementation](#implementation-1)
+
 
 ## Install
 
@@ -15,7 +18,7 @@ Collection of node groups (for shader or geometry nodes)
 
 ## Usage
 
-### ClampVector (for shader)
+### :pushpin: ClampVector (for shader)
 
 ![docs/screenshot_clampvector.png](docs/screenshot_clampvector.png)
 
@@ -25,7 +28,7 @@ Clamps vector by min / max.
 
 ![docs/clampvector/implementation.png](docs/clampvector/implementation.png)
 
-### ToInstance (for geometry nodes)
+### :pushpin: ToInstance (for geometry nodes)
 
 ![docs/toinstance/screenshot.png](docs/toinstance/screenshot.png)
 
