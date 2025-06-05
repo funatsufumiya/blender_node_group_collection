@@ -1,6 +1,6 @@
-# Blender Shader Utilities
+# Blender Node Group Collection
 
-Collection of my shader utilities (node groups)
+Collection of node groups (for shader or geometry nodes)
 
 (For full list of nodes, see [Usage](#usage).)
 
@@ -12,11 +12,25 @@ Collection of my shader utilities (node groups)
 
 ## Usage
 
-### ClampVector
+### ClampVector (for shader)
 
 ![docs/screenshot_clampvector.png](docs/screenshot_clampvector.png)
 
 Clamps vector by min / max.
+
+### ToInstance (for geometry nodes)
+
+![docs/toinstance/screenshot.png](docs/toinstance/screenshot.png)
+
+![docs/toinstance/example.png](docs/toinstance/example.png)
+
+![docs/toinstance/node.png](docs/toinstance/node.png)
+
+Make geometry into single instance. This is useful when creating instance collection for `Pick Instance` on `Instance On Points`. (For detail, see the movie below.)
+
+https://www.youtube.com/watch?v=nReSOasTuYs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nReSOasTuYs?si=2FFrudkBoVxuzN0y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## License
 
