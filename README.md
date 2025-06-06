@@ -42,6 +42,10 @@ Get rate of point (ID / count) from mesh or curve
 
 ![docs/pointrate/implementation.png](docs/pointrate/implementation.png)
 
+### Side note
+
+- to detect of mesh or curves, used reference: https://blender.stackexchange.com/questions/305209/geometry-nodes-how-to-check-object-type
+
 ### :pushpin: ToInstance (for geometry nodes)
 
 **DEPRECATED**: use [Geometry to Instance](https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/geometry/geometry_to_instance.html) node instead.
