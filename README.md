@@ -32,6 +32,8 @@ Clamps vector by min / max.
 
 Get rate of point (ID / count) from mesh or curve
 
+(always returns 0.0 to 1.0 on each points, in order by ID)
+
 ![docs/pointrate/example.png](docs/pointrate/example.png)
 
 ![docs/pointrate/node.png](docs/pointrate/node.png)
