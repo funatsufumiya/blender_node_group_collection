@@ -5,9 +5,10 @@ Collection of node groups (for shader or geometry nodes)
 ## List of node groups (Table of Contents)
 - [:pushpin: ClampVector (for shader)](#pushpin-clampvector-for-shader)
   - [Implementation](#implementation)
-- [:pushpin: ToInstance (for geometry nodes)](#pushpin-toinstance-for-geometry-nodes)
+- [:pushpin: PointRate (for geometry nodes)](#pushpin-pointrate-for-geometry-nodes)
   - [Implementation](#implementation-1)
-
+- [:pushpin: ToInstance (for geometry nodes)](#pushpin-toinstance-for-geometry-nodes)
+  - [Implementation](#implementation-2)
 
 ## Install
 
@@ -26,6 +27,18 @@ Clamps vector by min / max.
 #### Implementation
 
 ![docs/clampvector/implementation.png](docs/clampvector/implementation.png)
+
+### :pushpin: PointRate (for geometry nodes)
+
+Get rate of point (ID / count) from mesh or curve
+
+![docs/pointrate/example.png](docs/pointrate/example.png)
+
+![docs/pointrate/node.png](docs/pointrate/node.png)
+
+#### Implementation
+
+![docs/pointrate/implementation.png](docs/pointrate/implementation.png)
 
 ### :pushpin: ToInstance (for geometry nodes)
 
