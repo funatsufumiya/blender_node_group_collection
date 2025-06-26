@@ -9,6 +9,8 @@ Collection of node groups (for shader or geometry nodes)
   - [Implementation](#implementation-1)
 - [:pushpin: ToInstance (for geometry nodes)](#pushpin-toinstance-for-geometry-nodes)
   - [Implementation](#implementation-2)
+- [:pushpin: Vertex Color Alpha (for shader)](#pushpin-vertex-color-alpha-for-shader)
+  - [Implementation](#implementation-3)
 
 ## Install
 
@@ -63,6 +65,18 @@ https://www.youtube.com/watch?v=nReSOasTuYs
 #### Implementation
 
 ![docs/toinstance/implementation.png](docs/toinstance/implementation.png)
+
+### :pushpin: Vertex Color Alpha (for shader)
+
+Vertex Color Unlit shader (kind of like a grease pencil). This is useful in combination with [GP to Colored Curves](https://github.com/funatsufumiya/GP_to_colored_curves) mesh.
+
+![docs/vertexcoloralpha/example.png](docs/vertexcoloralpha/example.png)
+
+![docs/vertexcoloralpha/node.png](docs/vertexcoloralpha/node.png)
+
+#### Implementation
+
+![docs/vertexcoloralpha/implementation.png](docs/vertexcoloralpha/implementation.png)
 
 ## License
 
