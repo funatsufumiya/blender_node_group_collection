@@ -11,6 +11,8 @@ Collection of node groups (for shader or geometry nodes)
   - [Implementation](#implementation-2)
 - [:pushpin: Vertex Color Alpha (for shader)](#pushpin-vertex-color-alpha-for-shader)
   - [Implementation](#implementation-3)
+- [:pushpin: Unlit Shader (for shader)](#pushpin-unlit-shader-for-shader)
+  - [Implementation](#implementation-4)
 
 ## Install
 
@@ -77,6 +79,18 @@ Vertex Color Unlit shader (kind of like a grease pencil). This is useful in comb
 #### Implementation
 
 ![docs/vertexcoloralpha/implementation.png](docs/vertexcoloralpha/implementation.png)
+
+### :pushpin: Unlit Shader (for shader)
+
+Unlit shader with alpha. (This is minimalist version of Vertex Color Alpha. Probably useful for Toon shading with alpha.)
+
+![docs/unlitshader/example.png](docs/unlitshader/example.png)
+
+![docs/unlitshader/node.png](docs/unlitshader/node.png)
+
+#### Implementation
+
+![docs/unlitshader/implementation.png](docs/unlitshader/implementation.png)
 
 ## License
 
