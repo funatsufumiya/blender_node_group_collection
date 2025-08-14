@@ -94,4 +94,4 @@ Unlit shader with alpha. (This is minimalist version of Vertex Color Alpha. Prob
 
 ## License
 
-WTFPL
+WTFPL or 0BSD
